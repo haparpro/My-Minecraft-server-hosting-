@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Studio",
+  "description": "An AI-powered agent that helps you create web applications and find information by leveraging Google Search. Interact with a Gemini-powered AI to generate code, get explanations, and build your projects from scratch.",
+  "requestFramePermissions": []
+}
